@@ -1,0 +1,9 @@
+server.port=9090
+spring.hsqldb.console.enabled=true
+spring.datasource.url=jdbc:hsqldb:mem:testdb
+spring.datasource.driver-class-name=org.hsqldb.jdbc.JDBCDriver
+spring.jpa.show-sql=true 
+
+
+
+# "http://localhost:9090/hsqldb".

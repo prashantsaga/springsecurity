@@ -1,0 +1,22 @@
+package com.example.appsecurity3;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class MarketingController {
+
+	@GetMapping("server1")
+	public String service1()
+	{
+		System.out.print("marketting Service1");
+		return "from Market Service1";
+	}
+	@GetMapping("server2")
+	public String service2()
+	{
+		System.out.print("marketting Service2");
+		return "from Market Service2";
+	}
+
+}

@@ -1,0 +1,10 @@
+server.port=9090
+#spring.datasource.driver-class-name=org.hsqldb.jdbc.JDBCDriver
+#spring.datasource.url=jdbc:hsqldb:mem:testdb;DB_CLOSE_DELAY=-1
+#spring.datasource.username=sa
+#spring.datasource.password=
+#spring.jpa.hibernate.ddl-auto=create
+#
+#
+
+# "http://localhost:9090/hsqldb".

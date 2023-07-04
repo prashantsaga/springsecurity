@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;bin&apos; to &apos;gradle&apos;" description="Move &apos;bin&apos; to &apos;gradle&apos;" destination="gradle" element1="bin" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1681363705318" updateReferences="true"/>
+</session>

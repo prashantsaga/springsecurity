@@ -1,0 +1,13 @@
+package com.example.appsecurity3;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AppSecurity3Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AppSecurity3Application.class, args);
+	}
+
+}

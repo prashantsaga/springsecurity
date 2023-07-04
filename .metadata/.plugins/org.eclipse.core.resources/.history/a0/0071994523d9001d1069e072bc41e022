@@ -1,0 +1,5 @@
+
+String db = "jdbc:hsqldb:file:db";
+String user = "root";
+String password = "password";
+Connection connection = DriverManager.getConnection(db, user, password);
